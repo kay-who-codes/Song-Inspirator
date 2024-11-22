@@ -9,4 +9,6 @@ Randomly generated items include:
 - Vibes (e.g., Upbeat, Melancholic, Mysterious, etc.)
 - BPM (between 80 and 140)
 
-Access it **[HERE](https://kay-who-codes.github.io/song-inspirator/)**
+Use Song Inspirator **[HERE](https://kay-who-codes.github.io/song-inspirator/)**
+
+Share with your friends and/or click the star button! 
