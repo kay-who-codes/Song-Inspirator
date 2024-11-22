@@ -11,4 +11,4 @@ Randomly generated items include:
 
 Use Song Inspirator **[HERE](https://kay-who-codes.github.io/song-inspirator/)**
 
-Share with your friends and/or click the star button! 
+If you like it, please share it with your friends and/or click the star button! 
