@@ -34,3 +34,17 @@ function generateSong() {
 
 // Add event listener to the button
 document.getElementById("generate-button").addEventListener("click", generateSong);
+
+
+
+// Play Sound When Clicking Button
+
+const Button_Sound = new Audio('click.mp3'); // Create an Audio object
+
+// Function to play the sound
+function playButton_Sound() {
+  Button_Sound.play();
+}
+
+// Add event listeners to buttons
+document.getElementById('generate-button').addEventListener('click', playButton_Sound);

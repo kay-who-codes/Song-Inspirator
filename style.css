@@ -1,7 +1,7 @@
 /* Primary settings */
 body {
   font-family: Arial, sans-serif;
-  background-color: white;
+  background-color: #131313;
   margin: 0;
   padding: 0;
   display: flex;
@@ -9,12 +9,12 @@ body {
   align-items: center;
   height: 100vh;
   text-align: center;
+  color: white;
 }
 
 .container {
   max-width: 600px;
   padding: 20px;
-  background: white;
   border-radius: 10px;
 }
 
@@ -46,12 +46,12 @@ body {
 
 /* Button press animation: Flash */
 #generate-button:active {
-  animation: flash 0.2s;
+  animation: flash 0.5s;
 }
 
 @keyframes flash {
   0% {
-    background-color: lightcyan;
+    background-color: rgb(255, 224, 194);
   }
   100% {
     background-color: white;
@@ -70,13 +70,12 @@ footer {
   width: 100%;
   text-align: center;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: #ffffff00;
   font-size: 14px;
-  border-top: 1px solid #ddd;
 }
 
 footer a {
-  color: #007BFF;
+  color: #ff7b00;
   text-decoration: none;
   font-weight: bold;
 }
@@ -85,6 +84,7 @@ footer a:hover {
   text-decoration: underline;
 }
 
-h2, p {
+h2 {
   margin-bottom: 10px;
+  color: rgb(255, 169, 57);
 }
